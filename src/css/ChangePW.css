@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Inter');
+
+.container{
+    display: flex;
+    justify-content: center;
+    width: 420px;
+    height: 400px;
+    margin: auto;
+    margin-top: 90px;
+}
+
+.form h1{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    font-family: "Inter";
+    font-size: 26px;
+    color: #000000;
+}
+
+.form h2{
+    margin-top: 20px;
+    text-indent: 14px;
+    font-family: "Inter";
+    font-size: 15px;
+    color: #000000;
+}
+
+.form h3{
+    text-indent: 14px;
+    font-family: "Inter";
+    font-size: 15px;
+    color: #000000;
+}
+
+.type-here{
+    padding: 12px;
+    width: 80%;
+    margin: 10px;
+    margin-top: 16px;
+    background-color: #D9D9D9;
+    border: 2px solid black;
+    color: black;
+    outline: none;
+    border-radius: 2px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    font-size: 16px;
+}
+
+#change-password{
+    padding: 12px 10px;
+    width: 55%;
+    margin-top: 20px;
+    background-color: #F5D4E5;
+    font-size: 20px;
+    font-weight: bolder;
+    color: black;
+    border: none;
+    outline: none;
+    border-radius: 2px;
+    box-shadow: rgba(6, 6, 6, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}

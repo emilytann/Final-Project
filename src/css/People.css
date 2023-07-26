@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Homemade+Apple');
+@import url('https://fonts.googleapis.com/css?family=Imprima');
+@import url('https://fonts.googleapis.com/css?family=Inter');
+
+
+.instructor{
+    background-color: #080808;
+    color: #F4CAE0;
+    font-family: Imprima;
+    font-size: 30px;
+    width: 15%;
+    text-align: center;
+    margin-top: 12px;
+    margin-left: 90px;
+}
+
+h{
+    font-size: 20px;
+    font-family: Imprima;
+    margin-left: 12px;
+    line-height: 3;
+
+}
+
+.classmates{
+    background-color: #080808;
+    color: #F4CAE0;
+    font-family: Imprima;
+    font-size: 30px;
+    width: 88%;
+    display: flex;
+    margin-left: 90px;
+    text-indent: 40px;
+}
+
+.students{
+    background-color: #080808;
+    color: #F4CAE0;
+    font-family: Inter;
+    font-size: 18px;
+    width: 88%;
+    text-align: right;
+    margin-top: 8px;
+    text-indent: 20px;
+    padding-right: 40px;
+}
+
+.avatar {
+    float: left;
+    width: 30.33%;
+    font-size: 22px;
+    font-family: Imprima;
+    margin-top: 11px;
+    margin-bottom: 20px;
+    margin-left: 150px;
+}
+
+.top-row {
+    float: left;
+    width: 18.33%;
+    font-size: 20px;
+    font-family: Imprima;
+    text-indent: 12px;
+    margin-top: 20px;
+}
+
+hr {
+    background: #A6BCD6;
+    height: 2px;
+    width: 1215px;
+    border: none;
+    margin-left: 119px;
+  }
+
+.row {
+    float: left;
+    width: 18.33%;
+    font-size: 20px;
+    font-family: Imprima;
+    text-indent: 12px;
+    margin-top: 20px;
+}

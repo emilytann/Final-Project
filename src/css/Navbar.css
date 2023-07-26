@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Homemade+Apple');
+@import url('https://fonts.googleapis.com/css?family=Imprima');
+@import url('https://fonts.googleapis.com/css?family=Inter');
+
+.title {
+height: 70px;
+background: #080808;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: .5rem;
+text-indent: 10px;
+}
+
+
+.ACE {
+margin-top: 10px;
+font-family: "Homemade Apple";
+font-size: 44px;
+color: #F4CAE0;
+}
+		
+.Classroom {
+font-family: "Imprima";
+font-size: 44px;
+color: #FAD2C4;
+}
+
+
+.Board{
+font-family: "Imprima";
+font-size: 44px;
+color: #D2ECE0;
+}
+
+.links{
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+text-decoration: none;
+gap: 1rem;
+}
+
+.links a{
+text-decoration: none;
+color: white;
+}
+
+.links a:active{
+color: #64A6BD;
+}
+
+.links a:hover{
+color: #64A6BD;
+}
